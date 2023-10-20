@@ -1,0 +1,9 @@
+jupyter
+plotly
+pandas
+scipy
+scikit-learn
+holidays
+torch
+matplotlib
+PyQt6
